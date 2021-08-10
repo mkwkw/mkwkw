@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj={mkkw0228})](https://solved.ac/{0228})
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={mkwkw}&show_icons=true&theme={vue})](https://github.com/{mkwkw}/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkwkw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
