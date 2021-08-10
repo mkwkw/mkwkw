@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj={mkkw0228})](https://solved.ac/{0228})
