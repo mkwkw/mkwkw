@@ -1,6 +1,6 @@
 # 민경원 | Kyoungwon Min
 ### Backend Developer
->안녕하세요. 저는 Spring과 에 관심있는 개발자 민경원입니다. <br>
+>안녕하세요. 저는 Spring과 Cloud에 관심있는 개발자 민경원입니다. <br>
 >Hi, I'm Backend Developer who is interested in Spring with Java and Cloud.
 
 **Email**: mkkw2047@gmail.com <br>
