@@ -3,7 +3,7 @@
 >안녕하세요. 저는 Spring과 Cloud에 관심있는 개발자 민경원입니다. <br>
 >Hi, I'm Backend Developer who is interested in Spring with Java and Cloud.
 
-**Email**: mkkw2047@gmail.com <br>
+**LinkedIn**: https://www.linkedin.com/in/kyoungwon-min-2838a5211/ <br>
 **Blog**: https://mkwkw.tistory.com/ <br>
 **Skills**: `Spring boot JPA` `Spring boot Mybatis` `Java` `AWS` `MySQL` <br>
 **Algorithm Skill**:<br>
