@@ -5,7 +5,7 @@
 
 **LinkedIn**: https://www.linkedin.com/in/kyoungwon-min-2838a5211/ <br>
 **Blog**: https://mkwkw.tistory.com/ <br>
-**Skills**: `Spring boot JPA` `Spring boot Mybatis` `Java` `AWS` `MySQL` <br>
+**Skills**: `Spring boot` `Java` `AWS` `MySQL` <br>
 **Algorithm Skill**:<br>
 [![Solved.ac
 mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://solved.ac/mkkw0228)
