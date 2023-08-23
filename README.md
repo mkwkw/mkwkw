@@ -6,9 +6,10 @@
 **LinkedIn**: https://www.linkedin.com/in/kyoungwon-min-2838a5211/ <br>
 **Blog**: https://mkwkw.tistory.com/ <br>
 **Skills**: `Spring boot` `Java` `AWS` `MySQL` <br>
-**Algorithm Skill**:<br>
+
 [![Solved.ac
 mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://solved.ac/mkkw0228)
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkwkw&layout=compact"><br>
 
 **RESUME**: https://github.com/mkwkw/resume    
 **PORTFOLIO**: https://url.kr/k21xel
