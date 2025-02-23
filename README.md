@@ -11,7 +11,7 @@
 mkkw0228](http://mazassumnida.wtf/api/v2/generate_badge?boj=mkkw0228)](https://solved.ac/mkkw0228)
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkwkw&layout=compact"><br>
 
-**RESUME**: https://github.com/mkwkw/resume    
+**RESUME**: https://www.linkedin.com/in/kyoungwon-min-2838a5211/  
 **PORTFOLIO**: https://west-periwinkle-609.notion.site/Project_Portfolio-6ada7c8a35174ceeaa99474702eadfe4?pvs=4
 <!--
 **mkwkw/mkwkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
